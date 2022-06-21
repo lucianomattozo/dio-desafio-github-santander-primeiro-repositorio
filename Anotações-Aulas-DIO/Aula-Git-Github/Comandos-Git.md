@@ -32,7 +32,7 @@
   >
   > <p>Simplesmente baixe o arquivo exe do instalador a partir da página do GitHub e execute-o:</p>
   >
-  > [Downloads Git ] https://git-scm.com/downloads
+  > [Downloads Git ]https://git-scm.com/downloads
   >
   > **ATENÇÃO !!!**Baixe a versão compatível com seu computador. (Windows, mac OS, Linux/Unix)
   >
